@@ -25,7 +25,12 @@ local gibbed_spawner_types =
   "heli_bh_blackwatch_thermobaric_empty", "heli_bh_blackwatch_thermobaric",
   "heli_bh_blackwatch_supersoldier", "heli_bh_blackwatch_rocket",
   "heli_bh_blackwatch_empty", "heli_bh_blackwatch_empty_fix",
-  "heli_bh_blackwatch", "Infected1", "Infected1Pedestrian", "Infected1AI",
+  "heli_bh_blackwatch", "Infected", "INFECTED1_1", "Infected1AI",
+  "INFECTED1_2", "INFECTED1_3", "INFECTED1_4",
+  "INFECTED1_5", "INFECTED1_6", "INFECTED_LABTECH",
+  "INFECTED_BRUISER", "INFECTED3", "Infected3", "Infected3_Slammer",
+  "INFECTED3_SLAMMER", "infected3_Hammerer", " INFECTED3_HAMMERER",
+  "infected3_hammerer", 
   "behemoth", "Supersoldier", "OrionSuperSoldier",
 }
 
