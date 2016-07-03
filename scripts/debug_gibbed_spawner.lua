@@ -12,7 +12,12 @@ local gibbed_spawner_types =
   "SawBlackwatch", "BlackwatchPilot", "BlackwatchPilotNoAI",
   "ConsumeEventBlackwatch", "SoldierPedestrian",
   "SoldierCollectibleRagdollTemplate", "BwOfficer", "TheHunter",
-  "BlackwatchBaseDestruction", "KeyCommander",
+  "BlackwatchBaseDestruction", "KeyCommander", "evolved",
+  "evolved_default", "evolved_ghost",  "evolved_runner2",
+  "evolved_lancer_generic", "evolved_tornado", "evolved_e2",
+  "evolved_d3", "evolved_e3", "evolved_f1",
+  "evolved_f2", "evolved_f3", "evolved_g1",
+  "evolved_i1", "evolved_m1", "evolved_vs",
   "apc_m2_marine", "apc_m2_blackwatch",
   "UndergroundBrawler", "BrawlerPackLeader",
   "bw_scientist_high_clearance",
@@ -20,8 +25,8 @@ local gibbed_spawner_types =
   "heli_bh_blackwatch_thermobaric_empty", "heli_bh_blackwatch_thermobaric",
   "heli_bh_blackwatch_supersoldier", "heli_bh_blackwatch_rocket",
   "heli_bh_blackwatch_empty", "heli_bh_blackwatch_empty_fix",
-  "heli_bh_blackwatch", "Infected1_Male1", "Infected1_RANDOM", "Infected1AI", "behemoth", "Supersoldier",
-"OrionSuperSoldier",
+  "heli_bh_blackwatch", "Infected1_Male1", "Infected1_RANDOM", "Infected1AI",
+  "behemoth", "Supersoldier", "OrionSuperSoldier",
 }
 
 function gibbed_Spawner_Spawn()
