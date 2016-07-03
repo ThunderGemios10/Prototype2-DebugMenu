@@ -20,7 +20,7 @@ local gibbed_spawner_types =
   "heli_bh_blackwatch_thermobaric_empty", "heli_bh_blackwatch_thermobaric",
   "heli_bh_blackwatch_supersoldier", "heli_bh_blackwatch_rocket",
   "heli_bh_blackwatch_empty", "heli_bh_blackwatch_empty_fix",
-  "heli_bh_blackwatch",
+  "heli_bh_blackwatch", "Infected1", "Infected1Pedestrian",
 }
 
 function gibbed_Spawner_Spawn()
